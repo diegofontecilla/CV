@@ -36,7 +36,7 @@ Having a clear understanding of the client requirements, and developing technica
 ideas into a practical level, are two essential keys to succeed on this context.
 
 #### Eager to learn
-I am a passionate learner. I spent 7 years full time at university studying music and theatre, and
+I am a passionate learner: I spent 7 years full time at university studying music and theatre, and
 I am untiringly studying new subjects that interest me, such as music orchestration, music counterpoint,
 piano playing, yoga, zen meditation and currently software development.
 
