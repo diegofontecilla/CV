@@ -1,15 +1,15 @@
 ## Diego Fontecilla
-[Skills](#skills) | [Makers Academy Projects](#makers_projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Makers Academy Projects](#makers_projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 An alumnus of Makers, I am a former music composer that got seduced by the logic and power of programming.
 Through my career, I have growth a ability to produce and deliver work under commission,
-designing a product that fits the client requirements. Looking for a junior developer roll,
+designing a product that fits the client requirements. Looking for a junior developer role,
 in a company where I can grow my skills as a software engineer, I am exited about joining a work environment
 of collaboration, discipline and respect, willing to contribute to build elegant and efficient code.
 
 ## <a name="makers_projects">Makers Academy Projects</a>
-| Project | Summary | Technologies | Further Info |
-|----------|----------|----------|----------|
+| Project | Summary | Technologies |
+|----------|----------|----------|
 | [chitter](https://github.com/diegofontecilla/chitter-challenge-2) | This Ruby project is a small Twitter clone that allows the users to post messages to a public stream. | Ruby, Sinatra, Rspec, Capybara, PostgreSQL, CSS|
 | [git-jamming](https://github.com/diegofontecilla/git-jamming) | Git Jamming is the project we worked on during the final two weeks at Makers, in a team of four, with the aim to create a web application that allows the user to share a music recording by joining a jamming session with other users. | JavaScript, JQuery, Jasmine, Cypress, Heroku, HTML, CSS |
 | [thermostatJS](https://github.com/diegofontecilla/thermostatJS) | This is a JavaScript solo project to create a thermostat with a Sinatra RESTful API. | JavaScript, Sinatra, Ruby, PostgreSQL, Jasmine, HTML, CSS|
@@ -36,7 +36,7 @@ Having a clear understanding of the client requirements, and developing technica
 ideas into a practical level, are two essential keys to succeed on this context.
 
 #### Eager to learn
-I am a passionate of learning. Apart of had spent 7 years full time at university studying music and theatre,
+I am a passionate learner. I spent 7 years full time at university studying music and theatre, and
 I am untiringly studying new subjects that interest me, such as music orchestration, music counterpoint,
 piano playing, yoga, zen meditation and currently software development.
 
