@@ -1,6 +1,5 @@
 ## Diego Fontecilla
-[Skills](#skills) | [Makers Academy Projects](#makers_projects) | [Education](#education) | [Experience](#experience) | [Links](#links) |
-[Interests](#interests)
+[Skills](#skills) | [Makers Academy Projects](#makers_projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 An alumnus of Makers, I am a former music composer that got seduced by the logic and power of programming.
 Through my career, I have growth a ability to produce and deliver work under commission,
