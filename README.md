@@ -1,11 +1,7 @@
 ## Diego Fontecilla
 [Makers Academy Projects](#makers_projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-An alumnus of Makers, I am a former music composer that got seduced by the logic and power of programming.
-Through my career, I have growth a ability to produce and deliver work under commission,
-designing a product that fits the client requirements. Looking for a junior developer role,
-in a company where I can grow my skills as a software engineer, I am exited about joining a work environment
-of collaboration, discipline and respect, willing to contribute to build elegant and efficient code.
+An alumnus of MAKERS coding bootcamp, I am a former music composter that got seduced by the logic and power of programming. Through my career, I have developed an ability to produce and deliver work under commission, designing products that fit with a deep understanding of client requirements. Looking for a junior developer role, in a company where I can grow my skills as a software engineer, I am excited about joining a work environment of collaboration, discipline and respect, and am willing to contribute to build elegant and efficient code.
 
 ## <a name="makers_projects">Makers Academy Projects</a>
 | Project | Summary | Technologies |
@@ -19,30 +15,20 @@ of collaboration, discipline and respect, willing to contribute to build elegant
 ## Skills
 
 #### Creativity
- I have 15 years of experience creating and producing music for film. Creativity, combined with a precise
-understanding of the client requirements, plus advanced technical skills, are essential keys for working on
-this industry. For me, creativity is the ability to come up with a new idea, to be able to look at something
-in a new way. This ability applied to the world of software development, can help organisations to move in
-a more productive direction, adding value to a company.
+I have 15 years of experience creating and producing music for film. Creativity, combined with a precise understanding of the client requirements, plus advanced technical skills, are essential keys for working in this industry. For me, creativity is the ability to come up with a new idea, to be able to look at something in a new way. This ability, applied to the world of software development, can help organisations to move in a more productive direction, adding value to a company.
 
  - Composed and produced more than 400 commissioned pieces of music for feature film, TV and advertisement.
  - Theatrical text writing contribution for 'Senza Sangue', adaptation of the novel by Alessandro Baricco.   
 
 #### Ability to work under pressure
-Through my experience of working for the film industry, I am confident in getting the work done within tight
-deadlines. Particularly in the advertisement industry, the deadlines use to be really close, and force you to think and react quickly, requiring high standards of technical skills. In my case, this process has
-involved a constant revision about what can be improved in order to make the work better and faster.
-Having a clear understanding of the client requirements, and developing technical skills in order to apply
-ideas into a practical level, are two essential keys to succeed on this context.
+Through my experience of working for the film industry, I am confident in getting the work done within tight deadlines. Particularly in the advertisement industry, the deadlines used to be really close, and force you to think and react quickly, requiring high standards of technical skills. In my case, this process has involved a constant revision about what can be improved in order to make the work better and faster. Having a clear understanding of the client requirements, and developing technical skills in order to apply ideas into a practical level, are two essential skills to succeed on this context.
 
 #### Eager to learn
-I am a passionate learner: I spent 7 years full time at university studying music and theatre, and
-I am untiringly studying new subjects that interest me, such as music orchestration, music counterpoint,
-piano playing, yoga, zen meditation and currently software development.
+I am a passionate learner; I spent 7 years full time at university studying music and theatre, and I am untiringly studying new subjects that interest me, such as music orchestration, music counterpoint, piano playing, yoga, zen meditation and currently software development.
 
 #### Other Languages
 - Mother tongue Spanish
-- Fluent writing and speaking Italian
+- Fluent written and spoken Italian.
 
 ## Education
 
