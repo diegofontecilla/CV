@@ -1,7 +1,7 @@
 ## Diego Fontecilla
 [Makers Academy Projects](#makers_projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-An alumnus of MAKERS coding bootcamp, I am a former music composter that got seduced by the logic and power of programming. Through my career, I have developed an ability to produce and deliver work under commission, designing products that fit with a deep understanding of client requirements. Looking for a junior developer role, in a company where I can grow my skills as a software engineer, I am excited about joining a work environment of collaboration, discipline and respect, and am willing to contribute to build elegant and efficient code.
+An alumnus of MAKERS coding bootcamp, I am a former music composer that got seduced by the logic and power of programming. Through my career, I have developed an ability to produce and deliver work under commission, designing products that fit with a deep understanding of client requirements. Looking for a junior developer role, in a company where I can grow my skills as a software engineer, I am excited about joining a work environment of collaboration, discipline and respect, and am willing to contribute to build elegant and efficient code.
 
 ## <a name="makers_projects">Makers Academy Projects</a>
 | Project | Summary | Technologies |
@@ -9,8 +9,8 @@ An alumnus of MAKERS coding bootcamp, I am a former music composter that got sed
 | [chitter](https://github.com/diegofontecilla/chitter-challenge-2) | This Ruby project is a small Twitter clone that allows the users to post messages to a public stream. | Ruby, Sinatra, Rspec, Capybara, PostgreSQL, CSS|
 | [git-jamming](https://github.com/diegofontecilla/git-jamming) | Git Jamming is the project we worked on during the final two weeks at Makers, in a team of four, with the aim to create a web application that allows the user to share a music recording by joining a jamming session with other users. | JavaScript, JQuery, Jasmine, Cypress, Heroku, HTML, CSS |
 | [thermostatJS](https://github.com/diegofontecilla/thermostatJS) | This is a JavaScript solo project to create a thermostat with a Sinatra RESTful API. | JavaScript, Sinatra, Ruby, PostgreSQL, Jasmine, HTML, CSS|
-| [acebook-off-the-rails](https://github.com/diegofontecilla/acebook-off-the-rails) | Acebook is a clone of Facebook built with Ruby on Rails as a group project during weeks 8-9 at Makers Academy. | Ruby, Rails, Rspec-rails, PostgreSQL |
-| [makersbnb](https://github.com/diegofontecilla/makersbnb) | Makersbnb is our first group project at Makers Academy, which we built on the sixth week of the course. | Ruby, BCrypt, Bootstrap, Capybara, PostgreSQL, Sinatra |
+| [rps](https://github.com/diegofontecilla/rps) | This is a ruby project for creating a Rock-Paper-Scissors game. | Ruby, Sinatra, Rspec, Capybara, Rake, Selenium-Web-Driver, Rubocop, Simplecov |
+| [take_away](https://github.com/diegofontecilla/take_away) | This is a ruby project for creating an online food service. | Ruby, Rspec, Capybara, Rake, Rubocop, Simplecov, Twilio-Ruby |
 
 ## Skills
 
